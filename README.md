@@ -46,7 +46,7 @@ pip install opencv-python-headless numpy
 ## Installation
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/blood-cell-shape-detection.git
+git clone https://github.com/Coding-Shanks/blood-cell-shape-detection.git
 cd blood-cell-shape-detection
 ```
 Install the required libraries (if not already installed):
