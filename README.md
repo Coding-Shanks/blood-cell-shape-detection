@@ -73,10 +73,10 @@ python detect_blood_cells.py
 ![Input Image](images/input.jpg)
 
 ### Thresholded Image
-![Thresholded Image](images/thresholded.jpg)
+![Thresholded Image](images/thresholded.png)
 
 ### Detected Blood Cells with Shapes
-![Detected Cells](images/detected.jpg)
+![Detected Cells](images/detected.png)
 
 ---
 
